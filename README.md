@@ -2,25 +2,25 @@
 A simple journal taking app made with kivy-python! Writes your entries to a text file with the date.
 
 
-#Install:
+# Install:
 
 ensure you have python installed on your computer
 
-'''
+```
 python --version
-'''
+```
 
 Install Kivy via pip:
 
-'''
+```
 pip install kivy
-'''
+```
 
 Clone the repo:
 
-'''
+```
 git clone https://github.com/Alottachairs/kivy-journal
-'''
+```
 
 cd into the folder and run python journal.py (or python3 journal.py)
 
